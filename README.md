@@ -1,4 +1,4 @@
-#Simple Program that Grabs The Most Recent Headlines from a new site!
+#Simple Program that Grabs The Most Recent Headlines from a news site!
 
 This project is for educational purposes only. It respects the terms of service of the websites it interacts with. *IMPORTANT NOTE: I Do Not Mean To Steal Any Information From This Website.
 
